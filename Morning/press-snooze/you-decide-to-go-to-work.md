@@ -8,5 +8,3 @@ It seems like you were not present for work today, how are you feeling? Please c
 
 Cordially,
 Miles Court
-
-Go to work(link)
