@@ -4,6 +4,6 @@ I wake up.
 
 What do I do?
 
-Wake Up [Work](you-decide-to-go-to-work.md)
+Wake Up [Work](go-to-work.md)
 
 Press Snooze [ZZZzzz](snooze.md)
