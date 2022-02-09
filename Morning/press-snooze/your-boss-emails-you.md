@@ -9,4 +9,4 @@ It seems like you were not present for work today, how are you feeling? Please c
 Cordially,
 Miles Court
 
-[You decide to go to work](.../go-to-work.md)
+[You decide to go to work](cia-agent-project/Morning/go-to-work.md)
