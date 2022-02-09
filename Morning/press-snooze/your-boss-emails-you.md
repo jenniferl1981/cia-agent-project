@@ -9,4 +9,4 @@ It seems like you were not present for work today, how are you feeling? Please c
 Cordially,
 Miles Court
 
-[You decide to go to work](../../your-boss-emails-you.md)
+[You decide to go to work](go-to-work/../../your-boss-emails-you.md)
